@@ -1,4 +1,7 @@
-# primitives
+# About
+Here I made project for laboratory work. Progect writed on C++, using OpenGL and GLSL
+
+# For my teacher from university. ..if she ever visited this repo
 
 Рекомендуется собирать и запускать проект в QtCreator.
 Для корректного запуска необходимо во вкладке Project изменить поле Build Directory так, чтобы путь указывал на ту же папку,
