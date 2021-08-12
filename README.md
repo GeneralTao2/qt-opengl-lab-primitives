@@ -1,5 +1,5 @@
 #### About
-Here I made project for laboratory work. Progect writed on C++, using OpenGL and GLSL
+Here I made project for laboratory work. Project writed on C++, using OpenGL and GLSL
 
 #### Result
 
