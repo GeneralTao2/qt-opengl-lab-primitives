@@ -1,7 +1,11 @@
-# About
+#### About
 Here I made project for laboratory work. Progect writed on C++, using OpenGL and GLSL
 
-# For my teacher from university. ..if she ever visited this repo
+#### Result
+
+https://user-images.githubusercontent.com/42372666/129223665-915cefbb-ea11-4d0d-bf00-196b83dceb70.mp4
+
+#### For my teacher from university. ..if she ever visited this repo
 
 Рекомендуется собирать и запускать проект в QtCreator.
 Для корректного запуска необходимо во вкладке Project изменить поле Build Directory так, чтобы путь указывал на ту же папку,
